@@ -1,1 +1,10 @@
-# Wings-Of-Fire-Game
+# Wings-Of-Fire Game
+Made By Hayes Dombroski & Banks Hover.
+
+# Credits:
+
+# Banks Hover
+- Made all art and storyboards. 
+# Hayes Dombroski
+- Programmed the game.
+- Made GitHub page.

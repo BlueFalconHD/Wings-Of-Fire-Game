@@ -1,3 +1,8 @@
+# Updates
+- Game In Development.
+- Early Access Available Soon!
+
+
 # Wings-Of-Fire Game
 Made By Hayes Dombroski & Banks Hover.
 
